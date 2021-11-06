@@ -1,5 +1,7 @@
 {
   "private": true,
+  "author": "Felipe Lisboa - felipealisboa@outlook.com",
+  "description": "full stack aplicacion to ecommerce",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
